@@ -3,6 +3,7 @@
 ## Run locally
 
 Install: ```uv sync```
+
 Run: ```FLASK_DEBUG=True uv run flask run```
 
 ## Configuration
