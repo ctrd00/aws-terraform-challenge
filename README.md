@@ -1,7 +1,9 @@
-== Code Challenge for Merapar ==
+# AWS/Terraform Code Challenge 
 
-Install: ´uv sync´
-Run: ´uv run flask´
+## Run locally
+
+Install: ```uv sync```
+Run: ```FLASK_DEBUG=True uv run flask run```
 
 ## Configuration
 
