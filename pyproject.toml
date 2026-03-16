@@ -1,0 +1,10 @@
+[project]
+name = "merapar-challenge"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "boto3>=1.42.67",
+    "flask>=3.1.3",
+]
